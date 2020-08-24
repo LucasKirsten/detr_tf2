@@ -1,7 +1,8 @@
-# DEtection TRansformer Network (DETR) - Tensorflow 2
+# DEtection TRansformer Network (DETR) - TF2
 
 ## Overview
 Implementation of the **DETR** (**DE**tection **TR**ansformer) network (Carion, Nicolas, et al., 2020) in *Tensorflow 2*.
+
 **This is still a work in progress!**
 
 ## References
