@@ -23,7 +23,7 @@ conda install tensorflow-gpu==2.x -y
 pip install tensorflow-gpu==2.3.0rc1 tensorflow-addons==0.11.1 numpy scipy matplotlib imgaug opencv-python
 ```
 
-3. Use the ```train_detr-tf2.ipynb``` notebook to start training and make inferences.
+3. Use the ```train_detr-tf2.ipynb``` notebook to start training and make inferences. The folder kangaroo contains a small dataset so you can start to work with it.
 
 ## Code organization
 *In progress...*
